@@ -1,0 +1,66 @@
+sup {
+  font-family: cursive;
+  color: rgb(255, 255, 255);
+}
+
+.jumbotron {
+  background-image: url("../images/cheerios.jpg");
+  border-radius: 10%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar {
+  background: rgb(177, 104, 104);
+  font-weight: bold;
+  border-bottom: rgb(107, 82, 82) solid 2px;
+  border-radius: 10%;
+}
+
+h1 {
+  color: rgb(32, 18, 2);
+  border-radius: 10%;
+}
+.lead{
+    color: rgb(32, 18, 2);
+}
+
+.card {
+  margin-top: 20px;
+  border-radius: 10%;
+}
+
+.btns-fix {
+  margin: 10px;
+  border-radius: 10%;
+}
+
+#notes {
+  float: right;
+  width: 30%;
+}
+
+textarea,
+input {
+  display: block;
+  width: 100%;
+  background-color: #f7901b;
+}
+
+input {
+  height: 36px;
+  font-size: 24px;
+}
+
+textarea {
+  height: 200px;
+  font-size: 18px;
+}
+#footer {
+  font-weight: bold;
+  color: rgb(34, 20, 20);
+  margin-top: 20px;
+  border-radius: 10%;
+}
